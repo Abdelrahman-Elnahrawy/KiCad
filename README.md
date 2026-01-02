@@ -3,7 +3,7 @@
 
 ![Tools](https://img.shields.io/badge/Tools-KiCad_8.0-blue?style=for-the-badge&logo=kicad&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-PCB_Design_/_Hardware-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-AGPL--3.0-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GNU--3.0-red?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Abdelrahman--Elnahrawy-blue?style=for-the-badge&logo=github)
 
 This repository serves as a portfolio and archive for my Printed Circuit Board (PCB) designs developed using **KiCad**. It includes everything from initial schematic capture to 3D modeling and production-ready manufacturing files.
