@@ -1,7 +1,7 @@
 # KiCad Hardware Designs ⚡
 **Electronic Schematic Capture & Multi-Layer PCB Design**
 
-![Tools](https://img.shields.io/badge/Tools-KiCad_8.0-blue?style=for-the-badge&logo=kicad&logoColor=white)
+![Tools](https://img.shields.io/badge/Tools-KiCad_9.0-blue?style=for-the-badge&logo=kicad&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-PCB_Design_/_Hardware-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GNU--3.0-red?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Abdelrahman--Elnahrawy-blue?style=for-the-badge&logo=github)
